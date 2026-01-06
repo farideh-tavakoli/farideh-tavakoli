@@ -27,8 +27,3 @@
 ## 📌 Selected Work
 - **IoT machine usage profiling** (K-Means + SVM, reproducible pipeline)
 - **Havij** — nutrition tracking app (Streamlit + SQLite + API integration)
-- **Music streaming DB** — ER modeling + SQL implementation
-
-<div style="margin-bottom: 20px;">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farideh-tavakoli&show_icons=true&locale=en&layout=compact" alt="farideh-tavakoli" />
-</div>
