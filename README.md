@@ -6,10 +6,10 @@
 
 - 🎓 M.Sc. **Digital Transformation Management (Data Science & ML)** — University of Bologna  
 - 📊 I build data products: **Python/SQL pipelines → ML → Power BI dashboards**
-- 🧩 Interested in **IoT analytics**, **ML**, **BI**, and **analytics engineering**
+- 🧩 Interested in **Data analytics**, **ML**, and **BI**.
 
 ## 🧠 Skills
-- Machine Learning (segmentation, classification, model deployment)
+- Machine Learning (clustering, classification, neural networks)
 - Business Intelligence & reporting (Power BI)
 
 ## 🛠 Tech Stack
@@ -25,5 +25,5 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ## 📌 Selected Work
-- **IoT machine usage profiling** (K-Means + SVM, reproducible pipeline)
+- **A Hybrid Clustering–Classification Approach for Analyzing Machine Usage Patterns in Industrial IoT Dat** (K-Means + SVM, reproducible pipeline)
 - **Havij** — nutrition tracking app (Streamlit + SQLite + API integration)
