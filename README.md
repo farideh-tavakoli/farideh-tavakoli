@@ -26,4 +26,4 @@
 
 ## 📌 Selected Work
 - **A Hybrid Clustering–Classification Approach for Analyzing Machine Usage Patterns in Industrial IoT Dat** (K-Means + SVM, reproducible pipeline)
-- **Havij** — nutrition tracking app (Streamlit + SQLite + API integration)
+- **Havij**, a nutrition tracking app (Streamlit + SQLite + API integration)
